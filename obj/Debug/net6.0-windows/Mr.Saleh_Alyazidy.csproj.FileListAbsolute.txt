@@ -14,3 +14,19 @@ C:\Users\NOBEL\Desktop\New folder\New folder\Mr.Saleh_Alyazidy\obj\Debug\net6.0-
 C:\Users\NOBEL\Desktop\New folder\New folder\Mr.Saleh_Alyazidy\obj\Debug\net6.0-windows\Mr.Saleh_Alyazidy.pdb
 C:\Users\NOBEL\Desktop\New folder\New folder\Mr.Saleh_Alyazidy\obj\Debug\net6.0-windows\Mr.Saleh_Alyazidy.genruntimeconfig.cache
 C:\Users\NOBEL\Desktop\New folder\New folder\Mr.Saleh_Alyazidy\obj\Debug\net6.0-windows\ref\Mr.Saleh_Alyazidy.dll
+C:\Users\NOBEL\Desktop\Test2\Test2\bin\Debug\net6.0-windows\Mr.Saleh_Alyazidy.exe
+C:\Users\NOBEL\Desktop\Test2\Test2\bin\Debug\net6.0-windows\Mr.Saleh_Alyazidy.deps.json
+C:\Users\NOBEL\Desktop\Test2\Test2\bin\Debug\net6.0-windows\Mr.Saleh_Alyazidy.runtimeconfig.json
+C:\Users\NOBEL\Desktop\Test2\Test2\bin\Debug\net6.0-windows\Mr.Saleh_Alyazidy.dll
+C:\Users\NOBEL\Desktop\Test2\Test2\bin\Debug\net6.0-windows\Mr.Saleh_Alyazidy.pdb
+C:\Users\NOBEL\Desktop\Test2\Test2\obj\Debug\net6.0-windows\Mr.Saleh_Alyazidy.Form1.resources
+C:\Users\NOBEL\Desktop\Test2\Test2\obj\Debug\net6.0-windows\Mr.Saleh_Alyazidy.csproj.GenerateResource.cache
+C:\Users\NOBEL\Desktop\Test2\Test2\obj\Debug\net6.0-windows\Mr.Saleh_Alyazidy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOBEL\Desktop\Test2\Test2\obj\Debug\net6.0-windows\Mr.Saleh_Alyazidy.AssemblyInfoInputs.cache
+C:\Users\NOBEL\Desktop\Test2\Test2\obj\Debug\net6.0-windows\Mr.Saleh_Alyazidy.AssemblyInfo.cs
+C:\Users\NOBEL\Desktop\Test2\Test2\obj\Debug\net6.0-windows\Mr.Saleh_Alyazidy.csproj.CoreCompileInputs.cache
+C:\Users\NOBEL\Desktop\Test2\Test2\obj\Debug\net6.0-windows\Mr.Saleh_Alyazidy.dll
+C:\Users\NOBEL\Desktop\Test2\Test2\obj\Debug\net6.0-windows\refint\Mr.Saleh_Alyazidy.dll
+C:\Users\NOBEL\Desktop\Test2\Test2\obj\Debug\net6.0-windows\Mr.Saleh_Alyazidy.pdb
+C:\Users\NOBEL\Desktop\Test2\Test2\obj\Debug\net6.0-windows\Mr.Saleh_Alyazidy.genruntimeconfig.cache
+C:\Users\NOBEL\Desktop\Test2\Test2\obj\Debug\net6.0-windows\ref\Mr.Saleh_Alyazidy.dll

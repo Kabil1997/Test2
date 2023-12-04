@@ -6,4 +6,11 @@ namespace Mr.Saleh_Alyazidy
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (progressBar1.Value < 100)
+                progressBar1.Value += 10;
+        }
+    }
 }

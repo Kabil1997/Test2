@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NOBEL\\Desktop\\New folder\\New folder\\Mr.Saleh_Alyazidy\\Mr.Saleh_Alyazidy.csproj": {}
+    "C:\\Users\\NOBEL\\Desktop\\Test2\\Test2\\Mr.Saleh_Alyazidy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NOBEL\\Desktop\\New folder\\New folder\\Mr.Saleh_Alyazidy\\Mr.Saleh_Alyazidy.csproj": {
+    "C:\\Users\\NOBEL\\Desktop\\Test2\\Test2\\Mr.Saleh_Alyazidy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NOBEL\\Desktop\\New folder\\New folder\\Mr.Saleh_Alyazidy\\Mr.Saleh_Alyazidy.csproj",
+        "projectUniqueName": "C:\\Users\\NOBEL\\Desktop\\Test2\\Test2\\Mr.Saleh_Alyazidy.csproj",
         "projectName": "Mr.Saleh_Alyazidy",
-        "projectPath": "C:\\Users\\NOBEL\\Desktop\\New folder\\New folder\\Mr.Saleh_Alyazidy\\Mr.Saleh_Alyazidy.csproj",
+        "projectPath": "C:\\Users\\NOBEL\\Desktop\\Test2\\Test2\\Mr.Saleh_Alyazidy.csproj",
         "packagesPath": "C:\\Users\\NOBEL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NOBEL\\Desktop\\New folder\\New folder\\Mr.Saleh_Alyazidy\\obj\\",
+        "outputPath": "C:\\Users\\NOBEL\\Desktop\\Test2\\Test2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NOBEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
